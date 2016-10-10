@@ -1,0 +1,62 @@
+div#teste1 {
+    background-color: blue;
+}
+
+div#teste2{background-color: red;
+}
+
+div#teste3{
+    background-color: green;
+}
+
+div#teste4{
+    background-color: grey;
+}
+
+div#teste5{
+    background-color: yellow;
+}
+
+div#teste6{
+    background-color: orange;
+}
+
+div.pequeno{
+    width: 300px; 
+}
+
+div.medio{
+    width:  500px; 
+}
+
+
+div.grande{
+    width: 700px; 
+
+
+}
+
+.pequeno, .grande {
+    border: black 1px solid;
+}
+
+p{
+    font-weight: bold;
+}
+
+a {
+    width: 100px;
+    height: 50px;
+    line-height: 50px;
+    background-color: aqua;
+    color: black;
+    text-align: center;
+    display: inline-table;
+    text-decoration: none;
+        
+}
+
+a :hover{
+  text-decoration: underline;
+    background-color: grey;
+}
